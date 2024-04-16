@@ -1,24 +1,3 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "checked": false,
-            "item": "Clean my room"
-        },
-        {
-            "id": 2,
-            "checked": false,
-            "item": "Visit Placement Cell"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "Call my mom"
-        },
-        {
-            "id": 4,
-            "checked": false,
-            "item": "Charge my phone"
-        }
-    ]
+  "items": []
 }
